@@ -24,9 +24,9 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C#, Blazor MAUI, </b>
-                <b className="white"> MERN, MEVN, MEAN, </b>
-                <b style={{color: "cyan"}}> Headless CMS, Next.js. </b>
+                <b className="purple"> MERN, MEVN, MEAN, </b>
+                <b className="white"> C#, Blazor MAUI, </b>
+                <b style={{color: "cyan"}}> Headless CMS, Next.js, Tailwind CSS. </b>
               </i>
               <br />
               <br />
